@@ -41,7 +41,7 @@ const Disconnected: FC = () => {
           noOfLines={2}
           textAlign="center"
         >
-          Mint your buildoor. Earn $BLD. Level up.
+          AAA Mint your buildoor. Earn $BLD. Level up.
         </Heading>
         <Button
           bgColor="accent"
