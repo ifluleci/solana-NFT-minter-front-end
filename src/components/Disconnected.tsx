@@ -36,12 +36,12 @@ const Disconnected: FC = () => {
       <VStack spacing={20}>
         <Heading
           color="white"
-          as="h1"
-          size="3xl"
+          as="h2"
+          size="2xl"
           noOfLines={2}
           textAlign="center"
         >
-          AAA Mint your buildoor. Earn $BLD. Level up.
+          Mint your buildoor. Earn $BLD. Level up.
         </Heading>
         <Button
           bgColor="accent"
